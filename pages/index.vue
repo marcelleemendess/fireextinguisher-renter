@@ -1,10 +1,8 @@
 <template>
   <!-- Here is the landing page-->
-  <div>Marcelle</div>
+  <Hero />
 </template>
 
 <script>
-export default {
-  name: "IndexPage",
-};
+export default {};
 </script>
