@@ -10,7 +10,7 @@
     </div>
     <img
       src="~assets/svg/fire-extinguisher.svg"
-      alt="fire extinguisher"
+      alt="fire-extinguisher hero"
       class="image"
     />
   </div>
