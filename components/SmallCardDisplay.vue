@@ -5,7 +5,7 @@
     </h3>
     <div class="car-container">
       <SmallCard
-        v-for="card in cardsSection.card"
+        v-for="card in cardsSection.cards"
         :key="card.id"
         :card="card"
       />
